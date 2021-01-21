@@ -7,21 +7,21 @@
 <!-- #$VERSION:2.3 -->
 <!-- #$AUTHOR:Gonzalo Contreras Aso  -->
 <area shape="rect" coords="108,61,141,76" alt="1"  nohref="nohref" />
-<area shape="rect" coords="108,84,141,99" alt="2"  nohref="nohref" />
+<area shape="rect" coords="108,84,142,99" alt="2"  nohref="nohref" />
 <area shape="rect" coords="143,61,176,76" alt="3"  nohref="nohref" />
-<area shape="rect" coords="143,84,176,99" alt="4"  nohref="nohref" />
+<area shape="rect" coords="143,84,177,99" alt="4"  nohref="nohref" />
 <area shape="rect" coords="178,61,211,76" alt="5"  nohref="nohref" />
-<area shape="rect" coords="178,84,211,99" alt="6"  nohref="nohref" />
-<area shape="rect" coords="219,61,252,76" alt="7"  nohref="nohref" />
+<area shape="rect" coords="178,84,212,99" alt="6"  nohref="nohref" />
+<area shape="rect" coords="219,61,251,76" alt="7"  nohref="nohref" />
 <area shape="rect" coords="219,84,252,99" alt="8"  nohref="nohref" />
-<area shape="rect" coords="254,61,287,76" alt="9"  nohref="nohref" />
+<area shape="rect" coords="254,61,286,76" alt="9"  nohref="nohref" />
 <area shape="rect" coords="254,84,287,99" alt="10"  nohref="nohref" />
-<area shape="rect" coords="289,61,322,76" alt="11"  nohref="nohref" />
+<area shape="rect" coords="289,61,321,76" alt="11"  nohref="nohref" />
 <area shape="rect" coords="289,84,322,99" alt="12"  nohref="nohref" />
-<area shape="rect" coords="330,61,363,76" alt="13"  nohref="nohref" />
-<area shape="rect" coords="330,84,363,99" alt="14"  nohref="nohref" />
-<area shape="rect" coords="365,61,398,76" alt="15"  nohref="nohref" />
-<area shape="rect" coords="365,84,398,99" alt="16"  nohref="nohref" />
-<area shape="rect" coords="400,61,433,76" alt="17"  nohref="nohref" />
-<area shape="rect" coords="400,84,433,99" alt="18"  nohref="nohref" />
+<area shape="rect" coords="330,61,361,76" alt="13"  nohref="nohref" />
+<area shape="rect" coords="330,84,362,99" alt="14"  nohref="nohref" />
+<area shape="rect" coords="365,61,396,76" alt="15"  nohref="nohref" />
+<area shape="rect" coords="365,84,397,99" alt="16"  nohref="nohref" />
+<area shape="rect" coords="400,61,431,76" alt="17"  nohref="nohref" />
+<area shape="rect" coords="400,84,432,99" alt="18"  nohref="nohref" />
 </map>
